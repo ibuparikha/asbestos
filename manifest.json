@@ -1,0 +1,38 @@
+{
+  "name": "Asbestos",
+  "short_name": "Asbestos logo",
+  "start_url": "https://mesotheliomaasbes.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Mesothelioma treatment, diagnosis and related information for patients and families. Legal options for those diagnosed with malignant mesothelioma.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-6O1AVGaHZZc/X5fXIwW5JVI/AAAAAAAAA3E/x5vl6tF5u0IbEYl748r0Slj_nEdkxtm-QCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-44pXOva8Fos/X5fXW1Vh-oI/AAAAAAAAA3I/vaskLO8YqpMGQN6FBzY_01uob1rbu-RtACLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-814OknWQikw/X5fXa-FFOcI/AAAAAAAAA3Q/j9U1_W5oQpAOnsYUvMpWJdLmDjK_i7mUQCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GcUd81QXOj0/X5fXg3dqx1I/AAAAAAAAA3U/G-3doo_yXSIXDtHMy4xA5MZDLA0mOfvjgCLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QQeE5fYZj1s/X5fXmMwOw1I/AAAAAAAAA3c/dP1RHElYUf4JBL2JjR3pn51ENA5pmyncQCLcBGAsYHQ/s168/logo%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZCwDaVf9JkE/X5fXw2R9ALI/AAAAAAAAA3o/d14OTOqGzQY9IndpPFqhsUdxaLgXrj95ACLcBGAsYHQ/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7EAw1wYepJ8/X5fX2Rd0eWI/AAAAAAAAA3w/EaCmvLk6yqYWoh1MRc_DTTe_WmqbcYAUgCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
